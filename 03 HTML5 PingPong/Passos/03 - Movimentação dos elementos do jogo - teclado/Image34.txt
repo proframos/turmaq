@@ -1,0 +1,3 @@
+Corrigir o código.
+- É preciso definir um intervalo de tempo (30 ms) para o ciclo principal do jogo (gameloop).
+- Este, além de outras tarefas que veremos depois, tem de verificar e agir sobre a entrada (pressionar das teclas, neste caso).

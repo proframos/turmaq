@@ -1,0 +1,3 @@
+Criar a função para movimentar a bola.
+- Verifica se a bola colidiu com os limites da área de jogo;
+- Altera as propriedades directionX e directionY de acordo com a colisão detetetada.

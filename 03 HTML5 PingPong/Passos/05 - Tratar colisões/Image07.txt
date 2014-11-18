@@ -1,0 +1,4 @@
+Alterar a função moveBall() com o código de verificação de colisão com os limites esquerdo e direito.
+- Quando uma colisão é detetada, a bola é colocada no centro da área de jogo.
+- Para o limite esquerdo o jogador A perdeu 1 ponto;
+- Para o limite direito o jogador B perdeu 1 ponto.

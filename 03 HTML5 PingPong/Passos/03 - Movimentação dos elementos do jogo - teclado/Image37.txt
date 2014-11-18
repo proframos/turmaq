@@ -1,0 +1,1 @@
+Testar de novo e verificar que já está a funcionar corretamente (as teclas não se "interrompem").

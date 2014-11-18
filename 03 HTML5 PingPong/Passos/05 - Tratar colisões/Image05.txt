@@ -1,0 +1,1 @@
+Alterar a função moveBall() com o código de verificação de colisão com as barreiras.

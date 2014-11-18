@@ -1,0 +1,2 @@
+Testar no browser a nova versão.
+- A bola deve movimentar-se no ecrã, mudando de direção ao chegar aos limites da área de jogo.

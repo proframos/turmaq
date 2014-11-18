@@ -1,0 +1,4 @@
+Definir os atributos dos elementos que compõem o jogo:
+#playground - fundo da área de jogo
+#ball - bola
+.paddle e #paddleB - barreiras que os jogadores manipulam

@@ -1,0 +1,3 @@
+Verificar as colisões:
+- a bola muda de direção ao bater nas barreiras;
+- a bola é colocada no centro da área de jogo quando bate nos limites esquerdo ou direito.

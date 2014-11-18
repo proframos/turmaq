@@ -1,0 +1,4 @@
+Confirmar:
+- versão do jQuery correta;
+- nome da script do jogo corretamente indicada;
+- o aspeto atual desta versão do jogo (no Live View ou no browser...).

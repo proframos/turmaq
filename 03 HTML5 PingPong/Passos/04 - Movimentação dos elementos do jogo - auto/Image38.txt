@@ -1,0 +1,4 @@
+Definir um objeto global para a bola, com as propriedades:
+- speed - velocidade da bola
+- x, y - posição atual da bola
+- directionX, directionY - direção atual da bola (1 ou -1)...

@@ -1,0 +1,2 @@
+Definir as tarefas da função gameloop (que é chamada a cada 30 ms).
+- Nesta altura, dependendo das teclas pressionadas, as barreiras são movidas (chama a função movePaddless).

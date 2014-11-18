@@ -1,0 +1,3 @@
+Teste final.
+- A colisão da bola com as barreiras não está perfeita.
+- É preciso melhorar a deteção da colisão incluindo a largura das barreiras...

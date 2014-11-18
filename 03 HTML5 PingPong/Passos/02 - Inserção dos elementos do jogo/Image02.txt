@@ -1,0 +1,3 @@
+Criar as divisórias do jogo.
+- No CSS, as classes são identificadas por um . (.paddle, por exemplo), e podem ser usadas em vários elementos.
+- Os ids devem ser únicos e identificam-se por um # (#playground, #ball e #paddleB)

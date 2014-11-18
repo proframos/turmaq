@@ -1,0 +1,2 @@
+Atualizar o gameloop.
+- Chamar uma função para movimentar a bola.

@@ -1,0 +1,1 @@
+Criar as divisórias para o quadro de pontuações (scoreboard).

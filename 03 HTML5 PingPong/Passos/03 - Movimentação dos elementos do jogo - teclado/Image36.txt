@@ -1,0 +1,2 @@
+Escrever o código que move as barreiras de acordo com a(s) tecla(s) pressionada(s).
+- O código é semelhante ao da versão anterior mas, neste caso, é chamado "assincronamente".

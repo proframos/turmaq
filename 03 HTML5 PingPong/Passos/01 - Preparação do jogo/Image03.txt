@@ -1,0 +1,2 @@
+Fazer o download da última versão do jquery:
+- link: jquery.com/download/

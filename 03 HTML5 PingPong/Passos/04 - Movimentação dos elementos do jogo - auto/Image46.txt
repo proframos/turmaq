@@ -1,0 +1,1 @@
+Calcular a nova posição da bola e atualizá-la na página.

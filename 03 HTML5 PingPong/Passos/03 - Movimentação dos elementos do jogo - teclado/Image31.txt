@@ -1,0 +1,3 @@
+Inserir o código que lê o pressionar de uma tecla e movimenta as barreiras respetivas.
+- As teclas UP e DOWN movimentam a barreira B.
+- As teclas W e S movimentam a barreira A.
